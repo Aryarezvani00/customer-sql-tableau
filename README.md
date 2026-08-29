@@ -48,7 +48,7 @@ All cleaning and analysis was done in **MySQL** ([`project_1.sql`](./project_1.s
 
 The Tableau dashboard visualizes all three customer segments, letting stakeholders explore top customers by value, loyalty, and churn risk without needing to read SQL output directly.
 
-*(Add 1–2 dashboard screenshots here, e.g. `dashboard/overview.png`, embedded with `![Dashboard](dashboard/overview.png)`)*
+dashboard/dashboard 1.png
 
 ## Tools
 
