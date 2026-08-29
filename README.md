@@ -2,8 +2,6 @@
 
 SQL-based customer analysis identifying high-value, loyal, and at-risk customers from transaction history, visualized in a Tableau dashboard.
 
-**[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/arya.rezvani/viz/CustomerProject_17880046282590/CustomerOverview)**
-
 ## Business Question
 
 > "We want to improve customer retention and make our marketing campaigns more targeted. Can you analyze our transaction history and identify our most valuable, most loyal, and potentially at-risk customers?"
