@@ -42,7 +42,7 @@ All cleaning and analysis was done in **MySQL** ([`project_1.sql`](./project_1.s
 
 ## Key Challenge
 
-"High-value," "loyal," and "at-risk" aren't fields in the raw data — they had to be defined from behavior. Rather than picking arbitrary cutoffs, each metric was built from multiple signals (e.g. loyalty combines frequency + tenure + recency into one normalized score) so the segmentation reflects actual purchasing patterns instead of a single, easily-skewed number.
+"High-value," "loyal," and "at-risk" aren't fields in the raw data — they had to be defined from behavior.
 
 ## Dashboard
 
