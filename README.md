@@ -24,7 +24,7 @@ A transaction-level sales dataset with the following fields:
 
 ## Approach
 
-All cleaning and analysis was done in **MySQL** ([`project_1.sql`](./project_1.sql)):
+All cleaning and analysis was done in **MySQL** ([`project_1.sql`](sql/project_1.sql)):
 
 **1. Data cleaning**
 - Renamed inconsistent column headers (e.g. `` `transaction id` `` → `transaction_id`)
