@@ -61,8 +61,3 @@ A filterable, searchable table of the full customer base — spending, recency, 
 ## Tools
 
 `MySQL` · `Tableau Public`
-
-## What I'd Explore Next
-
-- Cross-reference at-risk customers against product category to see if churn correlates with specific product lines
-- Test whether a weighted loyalty score (vs. equal-weighted) better predicts retention
