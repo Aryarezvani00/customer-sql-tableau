@@ -46,10 +46,17 @@ All cleaning and analysis was done in **MySQL** ([`project_1.sql`](./project_1.s
 
 ## Dashboard
 
-The Tableau dashboard visualizes all three customer segments, letting stakeholders explore top customers by value, loyalty, and churn risk without needing to read SQL output directly.
+**[View the live, interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/arya.rezvani/viz/CustomerProject_17880046282590/CustomerOverview)**
 
-![Dashboard overview](dashboard/dashboard-1.png)
-![Dashboard overview](dashboard/dashboard-2.png)
+**Page 1 — Overview**
+Answers the three core business questions at a glance: top 10 most valuable customers by spend, most loyal customers by loyalty score, and customers at risk based on recency and past engagement.
+
+![Overview dashboard — most valuable, loyal, and at-risk customers](dashboard/dashboard-1.png)
+
+**Page 2 — Customer List**
+A filterable, searchable table of the full customer base — spending, recency, tenure, transaction count, and loyalty score per customer — so stakeholders can look up individual customers rather than only viewing the top 10.
+
+![Customer list dashboard with interactive filters](dashboard/dashboard-2.png)
 
 ## Tools
 
